@@ -1,4 +1,4 @@
-# ngineering_calculator
+# Engineering_calculator
 
 ## 1. Purpose
 
